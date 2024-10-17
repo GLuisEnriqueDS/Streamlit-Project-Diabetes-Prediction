@@ -6,3 +6,4 @@ numpy
 streamlit
 joblib
 setuptools
+scikit-learn
